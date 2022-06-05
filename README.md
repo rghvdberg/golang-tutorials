@@ -4,7 +4,7 @@ Files for the official Go tutorials on <https://go.dev/doc/tutorial/>
 
 1. Getting started  
     * Say Hello, World with Go.
-      * [ ] [Write some code](https://go.dev/doc/tutorial/getting-started#code)
+      * [x] [Write some code](https://go.dev/doc/tutorial/getting-started#code)
       * [ ] [Call code in an external package](https://go.dev/doc/tutorial/getting-started#call)
 2. Create a Go module
    * A multi-part tutorial that introduces common programming language features from the Go perspective.  
