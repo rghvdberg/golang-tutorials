@@ -10,7 +10,7 @@ Files for the official Go tutorials on <https://go.dev/doc/tutorial/>
    * A multi-part tutorial that introduces common programming language features from the Go perspective.  
      * [x] [Start a module that others can use](https://go.dev/doc/tutorial/create-module#start)
      * [x] [Call your code from another module](https://go.dev/doc/tutorial/call-module-code)
-     * [ ] [Return and handle an error](https://go.dev/doc/tutorial/handle-errors.html)
+     * [x] [Return and handle an error](https://go.dev/doc/tutorial/handle-errors.html)
      * [ ] [Return a random greeting](https://go.dev/doc/tutorial/random-greeting.html)
      * [ ] [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people.html)
      * [ ]  [Add a test](https://go.dev/doc/tutorial/add-a-test.html)
