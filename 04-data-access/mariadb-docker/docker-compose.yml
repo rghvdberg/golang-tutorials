@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  mariadb:
+    ports:
+      - "3306:3306"
+    image: "mariadb:latest"
+    restart: 'no'
+    volumes: 
+      - ./data:/var/lib/mysql
+      - ./logs/var/lib/mysql/logs:/var/log/mysql
+      - ./conf:/etc/mysql/
+    environment:
+      - MARIADB_USER=example-user
+      - MARIADB_PASSWORD=my_cool_secret
+      - MARIADB_ROOT_PASSWORD=my-secret-pw

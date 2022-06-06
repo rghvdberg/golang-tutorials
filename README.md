@@ -20,3 +20,13 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
       * [x] [Create a module for your code](https://go.dev/doc/tutorial/workspaces#create_folder)
       * [x] [Create the workspace](https://go.dev/doc/tutorial/workspaces#create-the-workspace)
       * [x] [Download and modify the golang.org/x/example module](https://go.dev/doc/tutorial/workspaces#download-and-modify-the-golangorgxexample-module)
+4. Accessing a relational database
+    * Introduces the basics of accessing a database using the standard library.
+      * [x] [Create a folder for your code](https://go.dev/doc/tutorial/database-access#create_folder)
+      * [x] [Set up a database](https://go.dev/doc/tutorial/database-access#set_up_database)
+      * [ ] [Find and import a database driver](https://go.dev/doc/tutorial/database-access#import_driver)
+      * [ ] [Get a database handle and connect](https://go.dev/doc/tutorial/database-access#get_handle)
+      * [ ] [Query for multiple rows](https://go.dev/doc/tutorial/database-access#multiple_rows)
+      * [ ] [Query for a single row](https://go.dev/doc/tutorial/database-access#single_row)
+      * [ ] [Add data](https://go.dev/doc/tutorial/database-access#add_data)
+  
