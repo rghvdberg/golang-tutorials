@@ -13,5 +13,5 @@ My files for the Go tutorial at <https://go.dev/doc/tutorial/>
       * [x] [Return and handle an error](https://go.dev/doc/tutorial/handle-errors.html)
       * [x] [Return a random greeting](https://go.dev/doc/tutorial/random-greeting.html)
       * [x] [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people.html)
-      * [ ] [Add a test](https://go.dev/doc/tutorial/add-a-test.html)
+      * [x] [Add a test](https://go.dev/doc/tutorial/add-a-test.html)
       * [ ] [Compile and install the application](https://go.dev/doc/tutorial/compile-install.html)

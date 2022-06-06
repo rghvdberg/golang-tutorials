@@ -16,6 +16,8 @@ func Hello(name string) (string, error) {
 
 	// Create a message using a random formate.
 	message := fmt.Sprintf(randomFormat(), name)
+	// break it
+	//message := fmt.Sprintf(randomFormat())
 	return message, nil
 
 }
@@ -37,7 +39,7 @@ func Hellos(names []string) (map[string]string, error) {
 		messages[name] = message
 	}
 	return messages, nil
-	
+
 } 
 
 // init sets initial values for variables used in the function
