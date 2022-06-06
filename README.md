@@ -27,7 +27,7 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
           * also check [04-database-access/mariadb-docker/README.md](04-data-access/mariadb-docker/README.md)
       * [x] [Find and import a database driver](https://go.dev/doc/tutorial/database-access#import_driver)
       * [x] [Get a database handle and connect](https://go.dev/doc/tutorial/database-access#get_handle)
-      * [ ] [Query for multiple rows](https://go.dev/doc/tutorial/database-access#multiple_rows)
+      * [x] [Query for multiple rows](https://go.dev/doc/tutorial/database-access#multiple_rows)
       * [ ] [Query for a single row](https://go.dev/doc/tutorial/database-access#single_row)
       * [ ] [Add data](https://go.dev/doc/tutorial/database-access#add_data)
   
