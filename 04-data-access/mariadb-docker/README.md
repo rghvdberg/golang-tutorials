@@ -21,10 +21,14 @@
       $ docker ps --format "{{.Names}}" | grep mariadb
       mariadb-docker-mariadb-1
       ```
-
-      * Use a temporary mariadb container to connect to our running mariadb instance (as root) and import the data from the [create-tables.sql](create-tables.sql) file.  
+      * Use a temporary mariadb container to connect to our running mariadb instance (as root) to create the database and import the data from the [create-tables.sql](create-tables.sql) file.  
       We'll use the password from the [docker-compose.yml](docker-compose.yml) file
 
-      ```
-      docker run --network mariadb-docker_default --rm mariadb mysql -hmariadb-docker-mariadb-1 -uroot -pmy-secret-pw < create-tables.sql
-      ```
+        * Create the database
+            ```
+            docker run --network mariadb-docker_default --rm mariadb mysql -hmariadb-docker-mariadb-1 -uroot -pmy-secret-pw -e "create database recordings; use recordings;"
+            ```
+        * Fill the database
+            ```    
+            docker run --network mariadb-docker_default --rm mariadb mysql -hmariadb-docker-mariadb-1 -uroot -pmy-secret-pw < create-tables.sql
+            ```
