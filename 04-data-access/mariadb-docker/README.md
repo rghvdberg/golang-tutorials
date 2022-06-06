@@ -1,6 +1,6 @@
 # Setup MariaDB with docker compose
 
-1. In a terminal navigate into the **mariadb-docker** directory and start the database.
+1. In a terminal navigate into the [mariadb-docker](/04-data-access/mariadb-docker/) directory and start the database.
 
     ```
     docker compose up -d
@@ -15,15 +15,15 @@
       a8a2c26f1718   mariadb-docker_default   bridge    local
       ```
 
-      * Find the running maria database name.
+      * Find the running mariadb database name.
 
       ```
       $ docker ps --format "{{.Names}}" | grep mariadb
       mariadb-docker-mariadb-1
       ```
 
-      * Use a temporary mariadb container to connect to our running mariadb instance (as root) and import the data from the **create-tables.sql** file.
-      We'll use the password from the **docker-compse.yml** file
+      * Use a temporary mariadb container to connect to our running mariadb instance (as root) and import the data from the [create-tables.sql](create-tables.sql) file.  
+      We'll use the password from the [docker-compose.yml](docker-compose.yml) file
 
       ```
       docker run --network mariadb-docker_default --rm mariadb mysql -hmariadb-docker-mariadb-1 -uroot -pmy-secret-pw < create-tables.sql

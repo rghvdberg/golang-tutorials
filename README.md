@@ -24,8 +24,9 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
     * Introduces the basics of accessing a database using the standard library.
       * [x] [Create a folder for your code](https://go.dev/doc/tutorial/database-access#create_folder)
       * [x] [Set up a database](https://go.dev/doc/tutorial/database-access#set_up_database)
+          * also check [04-database-access/mariadb-docker/README.md](04-data-access/mariadb-docker/README.md)
       * [x] [Find and import a database driver](https://go.dev/doc/tutorial/database-access#import_driver)
-      * [ ] [Get a database handle and connect](https://go.dev/doc/tutorial/database-access#get_handle)
+      * [x] [Get a database handle and connect](https://go.dev/doc/tutorial/database-access#get_handle)
       * [ ] [Query for multiple rows](https://go.dev/doc/tutorial/database-access#multiple_rows)
       * [ ] [Query for a single row](https://go.dev/doc/tutorial/database-access#single_row)
       * [ ] [Add data](https://go.dev/doc/tutorial/database-access#add_data)
