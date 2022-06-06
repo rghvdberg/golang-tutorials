@@ -1,6 +1,6 @@
 # Go tutorials
 
-Files for the official Go tutorials on <https://go.dev/doc/tutorial/>
+My files for the Go tutorial at <https://go.dev/doc/tutorial/>
 
 1. Getting started  
     * Say Hello, World with Go.
@@ -12,6 +12,6 @@ Files for the official Go tutorials on <https://go.dev/doc/tutorial/>
       * [x] [Call your code from another module](https://go.dev/doc/tutorial/call-module-code)
       * [x] [Return and handle an error](https://go.dev/doc/tutorial/handle-errors.html)
       * [x] [Return a random greeting](https://go.dev/doc/tutorial/random-greeting.html)
-      * [ ] [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people.html)
+      * [x] [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people.html)
       * [ ] [Add a test](https://go.dev/doc/tutorial/add-a-test.html)
       * [ ] [Compile and install the application](https://go.dev/doc/tutorial/compile-install.html)
