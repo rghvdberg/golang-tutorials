@@ -18,5 +18,5 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
 3. Getting started with multi-module workspaces
     * Introduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules.
       * [x] [Create a module for your code](https://go.dev/doc/tutorial/workspaces#create_folder)
-      * [ ] [Create the workspace](https://go.dev/doc/tutorial/workspaces#create-the-workspace)
+      * [x] [Create the workspace](https://go.dev/doc/tutorial/workspaces#create-the-workspace)
       * [ ] [Download and modify the golang.org/x/example module](https://go.dev/doc/tutorial/workspaces#download-and-modify-the-golangorgxexample-module)
