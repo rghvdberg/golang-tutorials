@@ -32,8 +32,8 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
       * [x] [Add data](https://go.dev/doc/tutorial/database-access#add_data)
 5. [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
     * _Introduces the basics of writing a RESTful web service API with Go and the Gin Web Framework._
-      * [ ] [Create a folder for your code](https://go.dev/doc/tutorial/web-service-gin#create_folder)
-      * [ ] [Create the data](https://go.dev/doc/tutorial/web-service-gin#create_data)
-      * [ ] [Write a handler to return all items](https://go.dev/doc/tutorial/web-service-gin#all_items)
+      * [x] [Create a folder for your code](https://go.dev/doc/tutorial/web-service-gin#create_folder)
+      * [x] [Create the data](https://go.dev/doc/tutorial/web-service-gin#create_data)
+      * [x] [Write a handler to return all items](https://go.dev/doc/tutorial/web-service-gin#all_items)
       * [ ] [Write a handler to add a new item](https://go.dev/doc/tutorial/web-service-gin#add_item)
       * [ ] [Write a handler to return a specific item](https://go.dev/doc/tutorial/web-service-gin#specific_item)
