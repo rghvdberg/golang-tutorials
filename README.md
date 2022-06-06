@@ -15,3 +15,8 @@ My files for the Go tutorial at <https://go.dev/doc/tutorial/>
       * [x] [Return greetings for multiple people](https://go.dev/doc/tutorial/greetings-multiple-people.html)
       * [x] [Add a test](https://go.dev/doc/tutorial/add-a-test.html)
       * [x] [Compile and install the application](https://go.dev/doc/tutorial/compile-install.html)
+3. Getting started with multi-module workspaces
+    * Introduces the basics of creating and using multi-module workspaces in Go. Multi-module workspaces are useful for making changes across multiple modules.
+      * [ ] Create a module for your code
+      * [ ] Create the workspace
+      * [ ] Download and modify the golang.org/x/example module
