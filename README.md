@@ -1,6 +1,6 @@
 # Go tutorials
 
-My files for the Go tutorial at <https://go.dev/doc/tutorial/>
+My files for the Go tutorials at <https://go.dev/doc/tutorial/>
 
 1. Getting started  
     * Say Hello, World with Go.
