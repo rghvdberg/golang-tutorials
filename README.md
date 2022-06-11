@@ -36,4 +36,4 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
       * [x] [Create the data](https://go.dev/doc/tutorial/web-service-gin#create_data)
       * [x] [Write a handler to return all items](https://go.dev/doc/tutorial/web-service-gin#all_items)
       * [x] [Write a handler to add a new item](https://go.dev/doc/tutorial/web-service-gin#add_item)
-      * [ ] [Write a handler to return a specific item](https://go.dev/doc/tutorial/web-service-gin#specific_item)
+      * [x] [Write a handler to return a specific item](https://go.dev/doc/tutorial/web-service-gin#specific_item)
