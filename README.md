@@ -41,6 +41,6 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
     * _Introduces the basics of generics in Go. With generics, you can declare and use functions or types that are written to work with any of a set of types provided by calling code._
       * [x] [Create a folder for your code](https://go.dev/doc/tutorial/generics#create_folder)
       * [x] [Add non-generic functions](https://go.dev/doc/tutorial/generics#non_generic_functions)
-      * [ ] [Add a generic function to handle multiple types](https://go.dev/doc/tutorial/generics#add_generic_function)
+      * [x] [Add a generic function to handle multiple types](https://go.dev/doc/tutorial/generics#add_generic_function)
       * [ ] [Remove type arguments when calling the generic](https://go.dev/doc/tutorial/generics#remove_type_arguments)
       * [ ] [Declare a type constraint](https://go.dev/doc/tutorial/generics#declare_type_constraint)
