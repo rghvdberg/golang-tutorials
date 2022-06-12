@@ -43,4 +43,4 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
       * [x] [Add non-generic functions](https://go.dev/doc/tutorial/generics#non_generic_functions)
       * [x] [Add a generic function to handle multiple types](https://go.dev/doc/tutorial/generics#add_generic_function)
       * [x] [Remove type arguments when calling the generic function](https://go.dev/doc/tutorial/generics#remove_type_arguments)
-      * [ ] [Declare a type constraint](https://go.dev/doc/tutorial/generics#declare_type_constraint)
+      * [x] [Declare a type constraint](https://go.dev/doc/tutorial/generics#declare_type_constraint)
