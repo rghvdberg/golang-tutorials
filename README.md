@@ -44,3 +44,10 @@ My files for the Go tutorials at <https://go.dev/doc/tutorial/>
       * [x] [Add a generic function to handle multiple types](https://go.dev/doc/tutorial/generics#add_generic_function)
       * [x] [Remove type arguments when calling the generic function](https://go.dev/doc/tutorial/generics#remove_type_arguments)
       * [x] [Declare a type constraint](https://go.dev/doc/tutorial/generics#declare_type_constraint)
+7. [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
+   * _Introduces the basics of fuzzing in Go. Fuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed._
+      * [ ] [Create a folder for your code](https://go.dev/doc/tutorial/fuzz#create_folder)
+      * [ ] [Add code to test](https://go.dev/doc/tutorial/fuzz#code_to_test)
+      * [ ] [Add a unit test](https://go.dev/doc/tutorial/fuzz#unit_test)
+      * [ ] [Add a fuzz test](https://go.dev/doc/tutorial/fuzz#fuzz_test)
+      * [ ] [Fix two bugs](https://go.dev/doc/tutorial/fuzz#fix_invalid_string_error)
